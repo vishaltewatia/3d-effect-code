@@ -7,7 +7,7 @@
       referrerpolicy="no-referrer"
     ></script>
     <script>
-      VanillaTilt.init(document.querySelector(".profile"), {
+      VanillaTilt.init(document.querySelector(".Your_id_name"), {
         max: 25,
         speed: 400,
       });
